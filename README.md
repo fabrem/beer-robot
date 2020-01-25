@@ -2,7 +2,7 @@
 
 This is a project that I started with a friend and with the only purpose of having fun. We started this project in the summer of 2019 to deepen our knowledge in robotics. The goal of this robot is simple: always serve the perfect beer! We came up with a design that we modelised in SketchUp, and we quickly started with the mechanical side of things.
 
-![](IMG_1841.jpg)
+![](IMG_1845.JPG)
 
 image des photos de bobu
 
