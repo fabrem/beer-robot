@@ -2,7 +2,7 @@
 
 This is a project that I started with a friend and with the only purpose of having fun. We started this project in the summer of 2019 to deepen our knowledge in robotics. The goal of this robot is simple: always serve the perfect beer! We came up with a design that we modelised in SketchUp, and we quickly started with the mechanical side of things.
 
-![](IMG_1845.JPG)
+![](/images/IMG_1845.JPG)
 ![](IMG_1846.JPG)
 
 Our first idea was to open the beer bottle by spinning a cogwheel (here a hockey puck with notches on its circumference) attached to a drill, and hence popping the cap when approaching the device. After some testing, we quickly came to the conclusion that the horizontal force to apply between the cap and the wheel was simply too much to handle for a robot like ours.
