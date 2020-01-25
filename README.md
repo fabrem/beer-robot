@@ -3,11 +3,7 @@
 This is a project that I started with a friend and with the only purpose of having fun. We started this project in the summer of 2019 to deepen our knowledge in robotics. The goal of this robot is simple: always serve the perfect beer! We came up with a design that we modelised in SketchUp, and we quickly started with the mechanical side of things.
 
 ![](IMG_1845.JPG)
-![](IMG_1844.JPG)
 ![](IMG_1846.JPG)
-![](IMG_1847.JPG)
-
-image des photos de bobu
 
 Our first idea was to open the beer bottle by spinning a dented wheel (here a hockey puck) attached to a drill, and hence popping the cap when approaching the device. We quickly came to the conclusion that the horizontal force to apply between the cap and the dented wheel was simply too much to handle for a robot like ours.
 
