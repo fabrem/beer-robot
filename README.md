@@ -8,7 +8,7 @@ image des photos de bobu
 
 Our first idea was to open the beer bottle by spinning a dented wheel (here a hockey puck) attached to a drill, and hence popping the cap when approaching the device. We quickly came to the conclusion that the horizontal force to apply between the cap and the dented wheel was simply too much to handle for a robot like ours.
 
-![]()
+![](IMG_1811.JPG)
 mettre video de bobu si possible - photo sinon
 
 After some research, we found that the direct force to apply in order to open the beer's cap was ~20 kPa (2.9 pound-force). Our workaround was to order two powerful linear actuators (able to push 125lbs each) and design a moving system so serving and decapsulating the beer wouldn't be a problem. The motor used to rotate the beer is a standard window motor you can find in older honda civic/subaru models (purchased online too).
