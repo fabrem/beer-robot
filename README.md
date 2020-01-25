@@ -10,7 +10,9 @@ Our first idea was to open the beer bottle by spinning a dented wheel (here a ho
 After some research, we found that the direct force to apply in order to open the beer's cap was ~20 kPa (2.9 pound-force). Our workaround was to order two powerful linear actuators (able to push 125lbs each) and design a moving system so serving and decapsulating the beer wouldn't be a problem. The motor used to rotate the beer is a standard window motor you can find in older honda civic/subaru models (purchased online too).
 
 ![](IMG_1811.JPG)
+![](IMG_1840.jpg)
 ![](IMG_1841.jpg)
+![](IMG_1842.jpg)
 
 After numerous failed attemps, we managed to open our first beer!! :)
 
