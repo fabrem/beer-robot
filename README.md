@@ -16,9 +16,11 @@ After some research, we found that the direct force to apply in order to open th
 
 After numerous failed attemps, we managed to open our first beer!! :)
 
+![](gif-biere.gif)
+
 Our robot is still a prototype, so our work is still in progress. All of the code used to move the robot is listed in this repo. As for the circuits, I used an Arduino Uno, two 12V DC motor controllers (L298N) and a 12V power supply (8 AA batteries in serial).
 
-![](gif-biere.gif)
+
 
 Sources:
 https://www.youtube.com/watch?v=ut_lZWhz2LU
